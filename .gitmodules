@@ -1,0 +1,8 @@
+[submodule "poke-masters-frontend"]
+	path = poke-masters-frontend
+	url = https://github.com/BrianPeguero/poke-masters-frontend.git
+	branch = main
+[submodule "poke-masters-backend/poke-masters-auth"]
+	path = poke-masters-backend/poke-masters-auth
+	url = https://github.com/BrianPeguero/poke-masters-auth.git
+	branch = main
